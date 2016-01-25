@@ -5,4 +5,4 @@ How are you?
 
 I'm fine thanks
 
-Would you like a cup of tea
+Would you like a glass of water
